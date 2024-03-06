@@ -171,11 +171,18 @@ header{
     text-align: center;
 }
 
+.sign-in-section .sign-in .sign-in-buttons button span{
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 13px;
+}
+
 /* Imagen */
 
 .sign-in-section .imagen img{
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
 }
 
 /* Screen media */
